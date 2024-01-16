@@ -3,5 +3,7 @@ title: "Contatti"
 order: 2
 in_menu: true
 ---
-Per scrivermi: [nilocram@contributopia.eu](mailto:nilocram@contributopia.eu)
+Mi trovate qui:
+su [Framapiaf](https://framapiaf.org/deck/@nilocram)
+
 ` 
